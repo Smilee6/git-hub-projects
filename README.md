@@ -1,1 +1,13 @@
-# git-hub-projects
+https://github.com/Smilee6/destructorS
+https://github.com/Smilee6/7-11
+https://github.com/Smilee6/area
+https://github.com/Smilee6/PROGRAM-2-b
+https://github.com/Smilee6/program-2-A
+https://github.com/Smilee6/PROGRAM-1
+https://github.com/Smilee6/assignment-
+https://github.com/Smilee6/program-7
+https://github.com/Smilee6/program-11
+https://github.com/Smilee6/program-10
+https://github.com/Smilee6/program-9
+https://github.com/Smilee6/PROGRAM-3
+https://github.com/Smilee6/palindromestring
